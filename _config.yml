@@ -1,5 +1,10 @@
-theme: jekyll-theme-hacker
-
+theme: jekyll-theme-minimal
+title: Machine Learning for the Web
+description:  Making Machine Learning a first-class web citizen
+# logo credits: https://pixabay.com/en/artificial-neural-network-ann-3501528/
+logo: https://avatars2.githubusercontent.com/u/42399997
+show_downloads: false
 github:
-  is_project_page: false
+ is_user_page: false
+ is_project_page: false
 
