@@ -21,17 +21,9 @@ Delegating your stake to a staking pool NEVER requires you to send your ADA to a
 
 You can delegate using:
 
-[Daedalus](https://daedaluswallet.io/)
-
-(Desktop, full-node wallet, longer setup)
-
-[Yoroi](https://yoroi-wallet.com/#/)
-
-(Web-based, “lite” wallet, instant setup)
-
-[Yoroi Mobile App](https://apps.apple.com/au/app/emurgos-yoroi-cardano-wallet/id1447326389) 
-
-(iOS or Android, “lite” wallet, for mobile)
+* [Daedalus](https://daedaluswallet.io/) (Desktop, full-node wallet, longer setup)
+* [Yoroi](https://yoroi-wallet.com/#/) (Web-based, “lite” wallet, instant setup)
+* [Yoroi Mobile App](https://apps.apple.com/au/app/emurgos-yoroi-cardano-wallet/id1447326389) (iOS or Android, “lite” wallet, for mobile)
 
 ## How does delegation work?
 
