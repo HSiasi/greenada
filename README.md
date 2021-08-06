@@ -9,7 +9,7 @@ eco-Friendly Green ADA Staking Pool
 * Cost                  : 340 Ada
 
 
-## Delegate
+## Delegate:
 
 Stake (delegate) your ADA to GREEN_ADA Pool to start earning rewards. Rewards are paid automatically and directly to your digital wallet at the end of every epoch (every 5 days). First time delegating will take 3 epochs to receive rewards (16-20 days).
 
@@ -30,7 +30,7 @@ Compared to Bitcoin which is based on "Proof of Work" methodology, and requires 
 No. Since no ADA is transferred you cannot lose it and it always stays  safe with you in your wallet.
 
 
-## Resources
+## Resources:
 * ["Why Cardano?" White Paper](https://why.cardano.org/)
 * [Charles Hoskinson's "Whiteboard" Video](https://www.youtube.com/watch?v=Ja9D0kpksxw)
 * [Cardano Roadmap](https://roadmap.cardano.org/en/)
