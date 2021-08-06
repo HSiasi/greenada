@@ -13,7 +13,17 @@ Margin                : 1 %
 Cost                  : 340 Ada
 
 
-# How to stake with GREEN_ADA pool
-Download and install Yoroi or Daedalus.
-Create a wallet
-After you funded your wallet, if you decide to stake with us, simply click “Delegation List” in your wallet, search for “GREEN_ADA”, and smash the “DELEGATE” button.
+## Delegate
+
+Stake (delegate) your ADA to GREEN_ADA Pool to start earning rewards. Rewards are paid automatically and directly to your digital wallet at the end of every epoch (every 5 days). First time delegating will take 3 epochs to receive rewards (16-20 days).
+
+You can delegate using:
+
+[Daedalus](https://daedaluswallet.io/)
+(Desktop, full-node wallet, longer setup)
+
+[Yoroi](https://yoroi-wallet.com/#/)
+(Web-based, “lite” wallet, instant setup)
+
+[Yoroi Mobile App](https://apps.apple.com/au/app/emurgos-yoroi-cardano-wallet/id1447326389) 
+(iOS or Android, “lite” wallet, for mobile)
