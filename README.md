@@ -14,7 +14,7 @@ Cardano (ADA) is a popular choice among crypto investors looking for projects wi
 If you're interested in buying Cardano, here's everything you need to do.
 ## 1. Find a crypto exchange that sells Cardano
 Start by selecting a crypto exchange where you can buy Cardano. Because Cardano is one of the biggest coins, many of the best cryptocurrency exchanges list it. Here are some of the most popular crypto exchanges and investing platforms that have Cardano:
-* [Coinbase](https://www.coinbase.com/)
+* [Coinbase](https://www.coinbase.com/)(Recommended)
 * [Binance](https://www.binance.com/)
 * [Kraken](https://www.kraken.com/)
 * [eToro](https://www.etoro.com/)
@@ -44,7 +44,7 @@ Once again, the exact process depends on the exchange, but be ready to provide t
 
 ## 4. Make your Cardano purchase
 Check which payment methods the crypto exchange accepts and the fees for each one. These are the most common payment methods:
-* Bank transfer
+* Bank transfer (Recommended)
 * Debit cards
 * Credit cards
 * PayPal
@@ -66,7 +66,7 @@ Delegating your stake to a staking pool NEVER requires you to send your ADA to a
 You can delegate using:
 
 * [Daedalus](https://daedaluswallet.io/) (Desktop, full-node wallet, longer setup)
-* [Yoroi](https://yoroi-wallet.com/#/) (Web-based, “lite” wallet, instant setup)
+* [Yoroi](https://yoroi-wallet.com/#/) (Web-based, “lite” wallet, instant setup) (Recommended)
 * [Yoroi Mobile App](https://apps.apple.com/au/app/emurgos-yoroi-cardano-wallet/id1447326389) (iOS or Android, “lite” wallet, for mobile)
 
 ## How does delegation work?
