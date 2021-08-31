@@ -7,14 +7,25 @@
 * Cost                  : 340 Ada
 
 
+## What Is Cardano (ADA)?
+
+Cardano is a third-generation, decentralized proof-of-stake (PoS) blockchain platform designed to be a more efficient alternative to proof-of-work (PoW) networks. Scalability, interoperability, and sustainability on PoW networks like Ethereum are limited by the infrastructure burden of growing costs, energy use, and slow transaction times.
+
+"Ada" is Cardano's digital currency and is named after Ada Lovelace, a 19th-century countess and English mathematician who is recognized as the first computer programmer.
+
+## Should You Invest in Cardano (ADA)?
+
+2021 has shown that alternative investments such as cryptos can enhance returns of traditional stock portfolios. As digital currencies and especially the blockchain technology become more utilized.
+
 ## Safely Buying Cardano (ADA):
 
 Cardano (ADA) is a popular choice among crypto investors looking for projects with strong long-term potential. Unlike Bitcoin and Ethereum, Cardano doesn't require much energy, making it an environmentally friendly crypto.
 
 If you're interested in buying Cardano, here's everything you need to do.
+
 ## 1. Find a crypto exchange that sells Cardano
 Start by selecting a crypto exchange where you can buy Cardano. Because Cardano is one of the biggest coins, many of the best cryptocurrency exchanges list it. Here are some of the most popular crypto exchanges and investing platforms that have Cardano:
-* [Coinbase](https://www.coinbase.com/)(Recommended)
+* [Coinbase](https://www.coinbase.com/) (Recommended)
 * [Binance](https://www.binance.com/)
 * [Kraken](https://www.kraken.com/)
 * [eToro](https://www.etoro.com/)
@@ -34,6 +45,7 @@ The exchange may require that you set up two-factor authentication. With this fe
 Even if two-factor authentication isn't required, it's worth setting up on your account for greater protection.
 
 ## 3. Verify your identity
+
 After you've created your account, it's time to verify your identity. Cryptocurrency exchanges need to do this with their clients to confirm their identities and prevent illegal activities, such as money laundering.
 
 Once again, the exact process depends on the exchange, but be ready to provide the following:
@@ -43,6 +55,7 @@ Once again, the exact process depends on the exchange, but be ready to provide t
 * A scan of a valid ID, such as a driver's license or passport
 
 ## 4. Make your Cardano purchase
+
 Check which payment methods the crypto exchange accepts and the fees for each one. These are the most common payment methods:
 * Bank transfer (Recommended)
 * Debit cards
