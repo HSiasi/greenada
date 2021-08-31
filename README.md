@@ -18,6 +18,7 @@ Start by selecting a crypto exchange where you can buy Cardano. Because Cardano 
 * [Binance](https://www.binance.com/)
 * [Kraken](https://www.kraken.com/)
 * [eToro](https://www.etoro.com/)
+
 The two most important things to look for in a crypto exchange are security and reasonable fees, which all of these platforms offer. For beginners, Coinbase is a great choice because of how user-friendly it is. It doesn't take long to learn how to trade crypto using Coinbase, and it also has plenty of educational content available.
 
 # 2. Sign up for an account
@@ -27,6 +28,7 @@ Exchanges usually ask for the following information to open an account:
 * Full name
 * Email address
 * Phone number
+
 The exchange may require that you set up two-factor authentication. With this feature, you need to go through two layers of security when logging in to your account. For example, instead of just entering your password, you would also need to enter a code the exchange sent to your email address or phone number.
 
 Even if two-factor authentication isn't required, it's worth setting up on your account for greater protection.
@@ -46,6 +48,7 @@ Check which payment methods the crypto exchange accepts and the fees for each on
 * Debit cards
 * Credit cards
 * PayPal
+
 Most top exchanges let you deposit cash from a bank account free of charge. You still pay transaction fees when buying crypto, but it ends up being cheaper than other payment methods. With debit cards, credit cards, and PayPal, you pay more in fees on your crypto purchase. Just keep in mind that the transfer process from a bank account can take a few business days.
 
 Once you have the funds in your exchange account, choose the amount of money you want to spend on Cardano. The exchange will show you a preview of the transaction with the fees and the amount of Cardano you'll receive. If it looks correct, confirm the purchase.
